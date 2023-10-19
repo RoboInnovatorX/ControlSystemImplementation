@@ -2,6 +2,9 @@
 
 This repository contains the C++ and Matlab code for the Control Systems Implementation Project completed in July 2023. The project involves the simulation and control of a traction system for an electric vehicle. Key components include wheel thrust force, engine rotation speed, linear speed of the vehicle, vehicle displacement, power consumed by the motor, and current supplied by the battery.
 
+![GUI ](MotorControlSystem/Motor_control.PNG)
+
+
 ## Features
 
 - **Simulation in C++ with Qt-SDK (console mode):** Simulate the system's behavior with a 5ms delay, representing 1 second for every 200 data points in the input file.
